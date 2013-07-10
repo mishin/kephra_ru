@@ -1,0 +1,818 @@
+ russian
+ ru
+ UTF8
+ global localisation
+ без названия
+ Файл
+ Открыть
+ Сохранить
+ Закрыть
+ Недавно закрытые
+ Сессия
+ Шаблоны
+ Правка
+ История
+ Строка
+ Выделение
+ Формат
+ Сомментарий
+ Конвертер
+ Поиск
+ Условия поиска
+ Функции Поиска
+ Функции Замены
+ Перейти на Закладку
+ Сделать Закаладку
+ Инструменты
+ Документ
+ Изменить
+ Syntaxmode
+ A - M
+ N - Z
+ Компилятор
+ Интерпретатор
+ Структуры Данных
+ Документы
+ Вебпрограммирование
+ Специальные
+ Ширина Закладки
+ Символы окончания строки
+ Защиты от Записи
+ Вид
+ Панель
+ Панель инструментов
+ Контекстное Меню
+ Панель Редактирования
+ Ширина отступа текста
+ Конфиг
+ Язык
+ Глобальный конфигурационный файл
+ Пользовательский интерфейс
+ Локализация
+ Синтаксическое отображение A - M
+ Синтаксическое отображение N - Z
+ Справка
+ Символы
+ Столбец
+ Линия
+ Линии
+ Выделение
+ мягкие вкладки
+ твердый вкладки
+ Сейчас
+ Последние изменения
+ Дата
+ Время
+ Выход
+ Выход без Сохранения
+ Новый
+ Открыть ...
+ Открыть Директорию ...
+ Перечитать
+ Перечитать Все
+ Переименовать ...
+ Вставить из ...
+ Сохранить
+ Сохранить Все
+ Сохранить Как ...
+ Сохранить Копию ...
+ Печать ...
+ Закрыть текущую
+ Закрыть все
+ Закрыть другие
+ Закрыть не сохраняя
+ Закрыть все не сохраняя
+ Закрыть другие не сохраняя
+ Открыть ...
+ Добавить ...
+ Сохранить ...
+ Импорт ...
+ Экспорт ...
+ Восстановить из бэкапа
+ Сделать бекап
+ Отменить
+ Вернуть
+ Fast Undo
+ Fast Redo
+ Jump To Begin
+ Jump To End
+ Clear Records
+ Cut
+ Copy
+ Paste
+ Replace
+ Delete
+ Del Tab
+ Cut
+ Copy
+ Duplicate
+ Replace
+ Delete
+ Delete Left
+ Delete Right
+ Move Line Up
+ Move Line Down
+ Move Page Up
+ Move Page Down
+ Uppercase
+ Lowercase
+ Titlecase
+ Sentencecase
+ Spaces To Tabs
+ Tabs To Spaces
+ Add Perl Style Comment
+ Remove Perl Style Comment
+ Toggle Perl Style Comment
+ Add C Style Comment
+ Remove C Style Comment
+ Add XML Style Comment
+ Remove XML Style Comment
+ Align On Begin
+ Blockformat On Right Margin
+ Blockformat On Width ...
+ Linewrap On Right Margin
+ Linewrap On Width ...
+ Indent Space
+ Dedent Space
+ Indent Tab
+ Dedent Tab
+ Delete Trailing Space
+ Join Lines
+ Move Left
+ Move Right
+ Move Up
+ Move Down
+ Move Page Up
+ Move Page Down
+ Indention 2 Whitespace
+ Indention 2 Tab
+ Spaces 2 Tabs
+ Tabs 2 Whitespace
+ Delete Trailing
+ Select All
+
+
+ Auto Wrap
+ Incremental Search
+ Regular Expression
+ Match Case
+ Whole Word only
+ Word Begin
+ Selection
+ Document
+ Open Documents
+ Find Previous
+ Find Next
+ Find First
+ Find Last
+ Find Selection
+ Mark all Matches
+ Replace Backward
+ Replace Forward
+ Replace All
+ Replace With Confirm
+ Replace into Selection
+ Goto Last Edit
+ Goto Line Number  ...
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ O
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ O
+ Delete Bookmarks
+ Note
+ Run
+ Stop
+ Autoindention
+ Braceindention
+ Bracelight
+ Align
+ CR+LF (Windows)
+ CR (Macintosh)
+ LF (Linux)
+ Switch Back
+ Previous Tab
+ Next Tab
+ Move Left
+ Move Right
+ As Attribute
+ Always On
+ Always Off
+ Autoselect
+ None
+ Ada
+ Actionscript
+ Assembler
+ Avennue
+ Baan
+ Batch
+ C | C++
+ Conf
+ Context
+ C\#
+ CSS
+ Diff
+ Eiffel
+ Errorlist
+ Forth
+ FORTRAN 90
+ HTML
+ IDL
+ Java
+ Javascript
+ LaTeX
+ LISP
+ Lua
+ Makefile
+ Matlab
+ NSIS
+ Pascal
+ Perl
+ PHP
+ Property
+ Postscript
+ Python
+ Ruby
+ Scheme
+ UNIX Shell
+ SQL
+ TCL
+ TeX
+ Visual Basic
+ VB Script
+ XML
+ YAML
+ Tabs (HT  Spaces (ST  Use Tabs
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 8
+ Config Dialog ...
+ Search Dialog
+ Replace Dialog
+ About ...
+ Keymap ...
+ Advanced Tour
+ Credits
+ Featurelist
+ Navigation Guide
+ Welcome
+ This Version
+ Lineend Marker
+ Caret Line
+ Font
+ Indention Guide
+ Line Wrap
+ Right Margin
+ Whitespace
+ Custom
+ Default
+ No Menu
+ Marker Margin
+ Line Number
+ Text Folding
+ 0 px
+ 1
+ 2
+ 4
+ 6
+ 8
+ 10
+ 12
+ Notepad
+ Output
+ Statusbar
+ Statusbar
+ File Date
+ File Size
+ Nothing
+ Tabbar
+ Tabbar
+ Main Toolbar
+ Searchbar
+ Searchbar
+ Stay On Top
+ English
+ Deutsch (ISO)
+ Deutsch (UTF)
+ Deutsch
+ Cesky (ISO)
+ Cesky (UTF)
+ Open
+ Reload
+ Load From ...
+ Load Backup
+ Load Defaults
+ Merge With ...
+ Save
+ Save As ...
+ Command List
+ Main Menu
+ Contextmenus
+ Toolbar
+ Main Toolbar
+ Searchbar
+ Statusbar
+ English
+ Deutsch
+ Deutsch (ISO)
+ Deutsch (UTF)
+ Cesky (ISO)
+ Cesky (UTF)
+ Ada
+ Actionscript
+ Assembler
+ Avennue
+ Baan
+ Batch
+ C / C++
+ Conf
+ Context
+ C\#
+ CSS
+ Diff
+ Eiffel
+ Errorlist
+ Forth
+ FORTRAN 90
+ HTML
+ IDL
+ Java
+ Javascript
+ LaTeX
+ LISP
+ Lua
+ Makefile
+ Matlab
+ NSIS
+ Pascal
+ Perl
+ PHP
+ Property
+ Postscript
+ Python
+ Ruby
+ Scheme
+ UNIX Shell
+ SQL
+ TCL
+ TeX
+ Visual Basic
+ VB Script
+ XML
+ YAML
+ Templates
+ shut down the application and save settings and files
+ shut down app without saving the open files
+ opens a new empty text
+ display an existing textfile as a new document
+ open all files of this directory
+ read file from hard drive and replace content with displayed
+ reload all opened files
+ change current files name
+ insert file content at caret position
+ save the displayed state of the current file
+ save all the currently opened files
+ save current document under different file name
+ save doc with different name, keep current version open
+ print the current document
+ close current document, if preset the file will be saved
+ close all open documents
+ close all open documents but not the current visible
+ close current document without save it before it
+ close all document without save it before it
+ unsaved closing of all open docs but not the current visible
+ restore an once saved file session
+ add files of a saved file session
+ save order and properties of this file session
+ open files session from another editors format
+ save files session in another editors format
+ restore the backup session
+ remember current files as the backup session
+ undo the last change in the current document
+ redo the last change made undone
+ go several steps back in edit history
+ go several steps forward in edit history
+ go back to the state before the first edit
+ go forward to the state after the last edit
+ deleting history of all editing changes
+ cut selected text and store it in the clipboard
+ copy selected text to the clipboard
+ insert text from the clipboard
+ replace selected text with the clipboard
+ delete and forget selected text
+ cut current line and store it in the clipboard
+ copy current line to the clipboard
+ insert below a copy of the current line
+ replace current line with the clipboard
+ delete and forget current line
+ delete left side from textcursor of current line
+ delete right side from textcursor of current line
+ move current line one line up
+ move current line one line down
+ move current line one page up
+ move current line one page down
+ turn selected text to uppercase
+ turn selected text to lowercase
+ turn first char of every word uppercase
+ turn first char of every sentence uppercase
+ convert groups of whitespace to tabs
+ depends on current tab width
+ insert \# after every indention
+ remove all \# following the indention
+ comment all uncommented lines and vici versa
+ surround selection with /* and */
+ remove all /* and */ in the selection
+ surround selection with  <!-- and -->
+ remove all <!-- and --> in the selection
+ align line indentions on first line
+ format to textblock, that not cross right margin
+ format to textblock with chosen width ...
+ wrap marked lines to width of ritght margin
+ wrap lines to a chosen width ...
+ increase indention of the selected lines by 1
+ decrease indention of the selected lines by 1
+ increase indention by current tab size
+ decrease indention by current tab size
+ delete whitespace on line endings
+ delete end of line (EOL) symbols
+ move selection one character left
+ move selection one character right
+ move selection one line up
+ move selection one line down
+ move selection one page up
+ move selection one page down
+ convert tabs between linestart and first word
+ convert spaces between linestart and first word
+ convert all spaces to tabs in the current doc
+ convert all tabs to spaces in the current doc
+ delete all trailing whitespace
+ select entire document
+
+
+ Auto Wrap
+ Incremental Search
+ Regular Expression
+ Match Case
+ Whole Word only
+ Word Begin
+ search and replace only within selected text
+ search and replace in whole current document
+ search and replace in all open documents
+ find the previous match of the textsearch
+ find the next match of the textsearch
+ find first textsearch match in document
+ find last textsearch match in document
+ remember selected text as current search item
+ replace selection and find previous match
+ replace selection and find next match
+ replace all matches in current search range
+ confirm or reject to replace every particular match
+ remember selected text as current replace item
+ jump to position of last change in this document
+ jump to line with chosen number
+ go to bookmark number 1
+ go to bookmark number 2
+ go to bookmark number 3
+ go to bookmark number 4
+ go to bookmark number 5
+ go to bookmark number 6
+ go to bookmark number 7
+ go to bookmark number 8
+ go to bookmark number 9
+ go to bookmark number 0
+ set here or remove (if present) bookmark 1
+ set here or remove (if present) bookmark 2
+ set here or remove (if present) bookmark 3
+ set here or remove (if present) bookmark 4
+ set here or remove (if present) bookmark 5
+ set here or remove (if present) bookmark 6
+ set here or remove (if present) bookmark 7
+ set here or remove (if present) bookmark 8
+ set here or remove (if present) bookmark 9
+ set here or remove (if present) bookmark 0
+ delete all bookmarks
+ jump to the notepad
+ run current programm and show result in output panel
+ stop the current running output panel process
+ indents new line like previous when Enter pressed 
+ obey right indention after curly braces when press enter
+ highlights associated pairs of braices
+ make all line endings like in first line
+ line endings for Windows or Dos
+  convert line endings to the Mac standart
+ convert line endings to the UNIX standart
+ switches to the last used document
+ changes the current document one tab to the left
+ changes the current document one tab to the right
+ move current document in the tabbar one pos to the left
+ move current document in the tabbar one pos to the right
+ turns write protection on if file is readonly
+ disables every modification of this document
+ makes document always editable even if it can't be saved
+ select syntaxmode depending on fileending
+ turn any syntaxmode settings off
+ activate language settings for Ada
+ activate settings for Macromedia Actionscript
+ language settings for Assembler
+ highlighting and settings for the Avennue language
+ language of the Baan ERP systems
+ Microsofts classic commandline batch control language
+ settings for the C / C++ language family
+ for Apache Conf styled configuration files
+ settings for the ConTeXt Tex Macros
+ syntaxmode for Microsoft C-Sharp 
+ syntaxmode for Cascading Style Sheet language
+ syntaxmode for patch files
+ Bertrand Meyers objectoriented language Eiffel
+ syntaxmode for errorcode files
+ language of the Forth systems
+ syntaxmode of the FORmula TRANslation language
+ syntaxmode for the HyperText Markup Language
+ syntaxmode of the Interface Definition Language
+ Settings for Sun's Java language
+ syntaxmode for Javascript
+ syntaxmode for the LaTeX Tex macros
+ LISt Prozessor settings
+ syntaxmode for the embedding language Lua 
+ highlighting for make tool scripts
+ MATLAB scripting language
+ language of the Nullsoft Scriptable Install System
+ Niklaus Wirth's structured language Pascal
+ syntaxmode for Larry Walls Perl
+ Rasmus Lehrdorf PHP Hypertext Prozessors
+ highlighting for simple config files
+ Adobe's document desciption language Postscript
+ Guido van Rossums dynamic language Python 
+ Yukihiro "Matz" Matsumoto's full objectoriented language
+ syntaxmode of the MIT LISP dialect
+ settings for the UNIX Bourne Shell
+ Structured Query Language originated from IBM
+ Tool Command Language from John Ousterhout 
+ Donald E. Knuth macro language for type setting
+ settings for Microsoft Visual Basic
+ settings for Microsoft Visual Basic Script
+ syntaxmode for the eXtensible Markup Language
+ syntaxmode for Indy's YAML Ain't Markup Language
+ insert a tab while hitting the tab key
+ insert several whitespaces while hitting tab key
+ use tabs (hard tabs) or whitespaces (soft tabs)
+ set width of tabs to an equal of 1 characters
+ set width of tabs to an equal of 2 characters
+ set width of tabs to an equal of 3 characters
+ set width of tabs to an equal of 4 characters
+ set width of tabs to an equal of 5 characters
+ set width of tabs to an equal of 6 characters
+ set width of tabs to an equal of 8 characters
+ display and change the program configuration
+ open dialog for text search and settings
+ open dialog for find and replace text
+ version numbers, authors, credits, license
+ lists which key kombination triggers which function
+ introduction of unusual but practical features
+ list of all involved people
+ thematically sorted description of all functionalities
+ explanations of the user interface
+ first steps: how to get help and give feedback
+ new features and important changes of the current version
+ switch visibility of the end of line marker
+ highlights row where caret(textcursor) is located
+ change font family, size, style etc.
+ vertical dotted lines in intervals of tab width
+ breaks long lines on window edge only visually
+ shows straight vertical line on seleted width
+ set whitespaces and tabs visible as dots and arrows
+ aktivate customizable editpanel context menu
+ aktivate default scintilla context menu
+ deaktivate all editpanel context menu
+ margin for bookmarks, marker, debug steps ...
+ sets line numbers visible
+ switch Margin for the text folding icons
+ set extra margin on both sides of textfield to 0 pixel
+ set extra margin on both sides of textfield to 1 pixel
+ set extra margin on both sides of textfield to 2 pixel
+ set extra margin on both sides of textfield to 4 pixel
+ set extra margin on both sides of textfield to 6 pixel
+ set extra margin on both sides of textfield to 8 pixel
+ set extra margin on both sides of textfield to 10 pixel
+ set extra margin on both sides of textfield to 12 pixel
+ switch visibility of the Notepad panel
+ switch visibility of the Output panel
+ switch visibility of the statusbar on bottom of the window
+ enable or disable context menus on statusbar
+ display change date of the current file in statusbar info field
+ display size info of the current file in statusbar info field
+ display nothing in statusbar info field
+ switch visibility of the tabbar, toolbar for doc selection
+ enable or disable context menus on tabbar
+ switch visibility of the main toolbar
+ toolbar with text seach and navigation functions
+ goto searchbar and use find function
+ application window remains always visible
+ change user interface language to english 
+ set german with ISO charset as user interface language  
+ change user interface language to german (UTF)
+ change user interface language to german
+ change user interface language to czech
+ change user interface language to czech (UTF)
+ open file with current global configurations
+ reload current global configuration file
+ load global configs from chosen file
+ load global configs from backup
+ load default global configs
+ merge current global configs with settings in this file
+ save current global configs into the file we load from
+ save current global configs into this file
+ definition for function calls, key binding, icons
+ open definition file for the menubar
+ open definition file for all contextmenu
+ open default definition file for toolbars
+ open definition file for the main toolbar
+ open definition file for the searchbar
+ open definition file for the statusbar
+ open english translation of application label texts
+ open german translation of the application texts
+ open german translation with ISO charset
+ open german translation with UTF16 charset
+ open czech translation with ISO charset
+ open czech translation with UTF16 charset
+ open file with settings for the Ada language 
+ open file with Macromedia Actionscript settings
+ open file with language settings for Assembler
+ highlighting and settings for the Avennue language
+ language of the Baan ERP systems
+ Microsofts classic commandline batch control language
+ open file with settings for the C / C++  languages
+ settings for files in the Apache Conf style
+ settings for ConTeXt Tex Macros
+ open file with syntaxmode for Microsoft C-Sharp 
+ settings for the Cascading Style Sheet language
+ syntaxmode for patch files
+ Bertrand Meyers objectoriented language Eiffel
+ syntaxmode for errorcode files
+ settings for the language of the Forth systems
+ syntaxmode von FORmula TRANslation open
+ syntaxmode for HyperText Markup Language open
+ syntaxmode der Interface Definition Language open
+ open settings for Sun's Java language
+ open syntaxmode for Javascript
+ open syntaxmode for the Tex macros named LaTeX 
+ open settings for the almighty LISt Prozessor 
+ settings for the extension language Lua 
+ highlighting for make tool scripts
+ MATLAB scripting language
+  language of the Nullsoft Scriptable Install System
+ settings for Niklaus Wirth's procedural language Pascal
+ file with syntaxmode for Larry Walls Perl
+ Rasmus Lehrdorf PHP Hypertext Prozessor
+ highlighting for simple config files
+ Adobe document description language Postscript
+ Guido van Rossums dynamic language Python
+ Yukihiro "Matz" Matsumoto's full object oriented Ruby
+ open syntaxmode of the MIT LISP dialect Scheme
+ open settings for the UNIX Bourne Shell
+ Structured Query Language, originated from IBM
+ Tool Command Language from John Ousterhout 
+ Donald E. Knuth's macro language for typesetting
+ open file with settings for Microsoft Visual Basic
+ open file with settings for Microsoft Visual Basic Script
+ open settings for die eXtensible Markup Language
+ open settings for Indy's YAML Ain't Markup Language
+ open file with the current template definitions
+ Global Settings
+ General
+ Main Window
+ Edit Panel
+ Files
+ load overall configuration from the file :
+ store current program configuration into the file :
+ goto line
+ choose linenumber :
+ custom word wrapping
+ choose new line width (maximum number of chars) :
+ Error
+ called without needed parameters
+ file handling error
+ can't find file :
+ can't read file :
+ can't write file :
+ can't read config file :
+ file has no data :
+ This file is write protected by the file system.
+ Please unlock this or save this text under an other filename.
+ Files
+ Open File
+ Insert File
+ Rename File
+ Save File As
+ Save All
+ Save None
+ Save A Copy Of This File As
+ Overwrite Existing File !
+ Closing Unsafed File
+ Save Current File ?
+ Save All Open Files ?
+ Closing Unsafed Files :
+ Open File Session
+ Add File Session
+ Save Current File Session
+ Import File Session
+ Export File Session
+ Open Files of Directory :
+ File Changed
+ The following file has changed:
+ File Deleted
+ The following file can not be found anymore:
+ Apply
+ Save
+ Save as ... and Reload
+ Overwrite
+ Restore
+ Reload
+ Ignore
+ Cancel
+ Close
+ All
+ Select
+ Selected
+ Changed
+ Deleted
+ None
+ Your settings dont allow this.
+ Info about
+ by
+ licensed under
+ see under help > license for credits and
+ explicit licenses
+ for more info visit
+ this version contains
+ and
+ which wrappes
+ extra Perl Modules
+ Deditcated to all people who ever tried to write an editor.
+ Keyboard Map
+ Find and Replace
+ Replace With Confirmation
+ Replace This ?
+ Search for :
+ Replace with :
+ Match Case
+ Word Begin
+ Whole Word Only
+ Regular Expression
+ Auto Wrap
+ Incremental Search
+ Search in
+ Selection
+ Current Doc
+ Open Docs
+ Find
+ Replace All
+ With Confirmation
+ differ between UPPER and lower case
+ match only beginnins of words
+ match only whole words
+ evaluates simple regular expression
+ search as you type
+ jumpes between file endings
+ find next
+ find previous
+ find fast forward
+ find fast backward
+ find first in document
+ find last In document
+ replace and find next
+ replace and find previous
+ Back
+ Esc
+ Enter
+ Del
+ Left
+ Right
+ Up
+ Down
+ Page Up
+ Page Down
+ Space
+ Tab
+ Alt
+ Shift
+ Ctrl

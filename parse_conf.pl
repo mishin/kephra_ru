@@ -27,13 +27,13 @@ sub main {
     my $j         = 0;
     for my $field (@pw_fields) {
 
-        print $$field[1] if defined $$field[1];
+#        print $$field[1] if defined $$field[1];
         if ( defined $$field[1] ) {
 
-            #   print $$field[0] . '=' . $lines[$j++];
+               print $$field[0] . '=' . $lines[$j++];
         }
         else {
-            #  print $$field[0];
+              print $$field[0];
         }
 
         #        say $i;

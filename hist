@@ -1,0 +1,174 @@
+    1  uname -a
+    2  mkdir -p ~/.local/share/Steam/ubuntu12_32/plugins
+    3  cd Загрузки/
+    4  ls
+    5  cp libflashplayer.so ~/.local/share/Steam/ubuntu12_32/plugins
+    6  sudo apt-get install libxt6:i386
+    7  cd Загрузки/
+    8  ды
+    9  ls
+   10  sudo apt-get install install_flash_player_11_linux.x86_64.tar.gz
+   11  tar -xvf install_flash_player_11_linux.x86_64.tar.gz 
+   12  ls
+   13  sudo apt-get install alien
+   14  man alien 
+   15  ls
+   16  alien 
+   17  man alien 
+   18  alien --to-deb install_flash_player_11_linux.x86_64.tar.gz 
+   19  sudo alien --to-deb install_flash_player_11_linux.x86_64.tar.gz 
+   20  sudo dpkg -i install-flash-player-11-linux.x86-64_1-2_all.deb 
+   21  cd Загрузки/
+   22  ды
+   23  ls
+   24  mkdir 1
+   25  mv libflashplayer.so 1
+   26  cd usr/
+   27  find . -name '*.so'
+   28  ls /usr/lib/mozilla/plugins/
+   29  cd ..
+   30  cp 1/libflashplayer.so /usr/lib/mozilla/plugins/
+   31  sudo cp 1/libflashplayer.so /usr/lib/mozilla/plugins/
+   32  ls
+   33  sudo apt-get install VMware-Player-5.0.2-1031769.i386.bundle
+   34  sudo apt-get install build-essential linux-headers-`uname -r`
+   35  chmod +x VMware-Player-5.0.2-1031769.i386.bundle 
+   36  sudo ./VMware-Player-5.0.2-1031769.i386.bundle 
+   37  ls
+   38  chmod +x VMware-Player-5.0.2-1031769.x86_64.bundle
+   39  ./VMware-Player-5.0.2-1031769.x86_64.bundle 
+   40  sudo ./VMware-Player-5.0.2-1031769.x86_64.bundle 
+   41  pwd
+   42  cd /host/TCPU59/
+   43  find . -name '*.pdf'
+   44  cpanm App::MetaCPAN::Gtk2::Notify 
+   45  cpan App::cpanminus
+   46  sudo apt-get install cpanm
+   47  cpanm 
+   48  cpanm App::MetaCPAN::Gtk2::Notify 
+   49  perl -MApp::MetaCPAN::Gtk2::Notify -e 'App::MetaCPAN::Gtk2::Notify->run;'
+   50  sudo cpanm App::MetaCPAN::Gtk2::Notify 
+   51  perl -MApp::MetaCPAN::Gtk2::Notify -e 'App::MetaCPAN::Gtk2::Notify->run;'
+   52  pwd
+   53  uname -a
+   54  sudo apt-get install liblocal-lib-perl
+   55  sudo apt-get install cpanminus
+   56  sudo cpanm App::MetaCPAN::Gtk2::Notify 
+   57  sudo cpanm Curses::Toolkit
+   58  perl -v
+   59  perl -V
+   60  pwd
+   61  sudo cpanm Bash::Completion::Plugins::cpanm
+   62  perl -MBash::Completion::Plugins::cpanm -e 1
+   63  vim /home/ira/.bashrc 
+   64   /home/ira/.bashrc 
+   65  sudo cpanm  App-CPAN-Fresh
+   66  sudo cpanm  App::CPAN::Fresh
+   67  cpanf -t Module::Name
+   68  cpanf -t  App::MetaCPAN::Gtk2::Notify
+   69  sudo cpanf -t  App::MetaCPAN::Gtk2::Notify
+   70  cpanf -l  
+   71  cpanf -l Catalyst
+   72  sudo cpanm  Stump
+   73  mkcd
+   74  mkdir stump_test
+   75  cd stump_test/
+   76  ls
+   77  perldoc  Stump
+   78  sudo cpanm  perldoc
+   79  sudo apt-get install perl-doc
+   80  perldoc  Stump
+   81  stump init
+   82  ls
+   83  sudo apt-get install vim
+   84  vim
+   85  lt
+   86  ls
+   87  vim stump.input 
+   88  perldoc  Stump
+   89  stump make
+   90  stump speech
+   91  sudo apt-get install ooimpress
+   92  libreoffice 
+   93  libreoffice impress
+   94  libreoffice stump.odp 
+   95  ps -ef
+   96  ps -ef|grep fire
+   97  kill -9 4739
+   98  ps -ef|grep fire
+   99  pwd
+  100  cd --
+  101  find . -name github
+  102  find . -name github|head -1
+  103  find . -name kephra|head -1
+  104  find . -name kephra
+  105  find . -name kephra|head -2
+  106  find . -name kephra|grep  github
+  107  find . -name kephra 2>/dev/null|grep  github
+  108  cd `find . -name kephra 2>/dev/null|grep  github`
+  109  lt
+  110  vim from_google.txt 
+  111  cat from_google.txt | grep -v "^$"|head
+  112  cat from_google.txt | grep -v "^$" > google.txt 
+  113  vim google.txt 
+  114  lt
+  115  vim parse_conf.pl 
+  116  perl parse_conf.pl 
+  117  perl parse_conf.pl --conf=russian.conf
+  118  perl parse_conf.pl --conf=russian.conf --from_google=google.txt 
+  119  vim parse_conf.pl 
+  120  perl parse_conf.pl --conf=russian.conf --from_google=google.txt 
+  121  vim parse_conf.pl 
+  122  perl parse_conf.pl --conf=russian.conf --from_google=google.txt 
+  123  vim parse_conf.pl 
+  124  perl parse_conf.pl --conf=russian.conf --from_google=google.txt  > russia_kephra.txt
+  125  lt
+  126  vim russia_kephra.txt 
+  127  vim from_google.txt 
+  128  vim russia_kephra.txt 
+  129  vim from_google.txt 
+  130  lt
+  131  vim parse_conf.pl 
+  132  vim russian.conf
+  133  vim parse_conf.pl 
+  134  perl parse_conf.pl --conf=russian.conf --from_google=google.txt  > russia_kephra.txt
+  135  vim russia_kephra.txt 
+  136  vim parse_conf.pl 
+  137  perl parse_conf.pl --conf=russian.conf --from_google=google.txt  > russia_kephra.txt
+  138  vim russia_kephra.txt 
+  139  vim from_google.txt 
+  140  lt
+  141  vim google.txt 
+  142  lt
+  143  vim russian.conf
+  144  man vim
+  145  lt
+  146  vim parse_conf.pl 
+  147  perl parse_conf.pl --conf=russian.conf --from_google=google.txt
+  148  perl parse_conf.pl --conf=russian.conf --from_google=google.txt|wc -l
+  149  cat google.txt |wc -l
+  150  vim google.txt 
+  151  lt
+  152  perl parse_conf.pl --conf=russian.conf --from_google=google.txt
+  153  perl parse_conf.pl --conf=russian.conf --from_google=google.txt > for_google.txt 
+  154  lt
+  155  vim for_google.txt 
+  156  lt
+  157  pwd
+  158  perldoc perldoc
+  159  man perl
+  160  man perlcn
+  161  perldoc perlcn
+  162  man perlcn
+  163* 
+  164  pwd
+  165  tidy_file parse_conf.pl 
+  166  lt
+  167  vim parse_conf.pl 
+  168  lt
+  169  wc -l google.txt 
+  170  wc -l for_google.txt 
+  171  vim for_google.txt 
+  172  lt
+  173  alias
+  174  history  > hist
