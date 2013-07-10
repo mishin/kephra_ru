@@ -19,28 +19,33 @@ main( $args{conf}, $args{from_google} );
 sub main {
     my ( $file_name, $tr_file ) = @_;
 
-    my @lines = read_file($tr_file);
+    my @lines = read_file( $tr_file, chomp => 1 );
 
-    #    p @lines;
-    my @pw_fields = map [ split /=/ ], read_file($file_name);
-    my $i         = 0;
-    my $j         = 0;
+    #p @lines;
+    my @pw_fields = map [ split /=/ ], read_file( $file_name, chomp => 1 );
+    # p @pw_fields;
+    my $i = 0;
+    my $j = 0;
     for my $field (@pw_fields) {
+        given ( $$field[1] ) {
+            when (defined) {
+                say $$field[0] . '=' . $lines[$j];
+                $j++;
+                continue;
+            }
+            when ( !defined ) {
+                if ( $$field[0] =~ m/(<|>)/g ) {
+                    say $$field[0];
+                    # say 'tag';
+                }
+                else {
+    			say $$field[0] . '=';
+                    
+                }
 
-#        print $$field[1] if defined $$field[1];
-        if ( defined $$field[1] ) {
-
-               print $$field[0] . '=' . $lines[$j++];
+                continue;
+            }
         }
-        else {
-              print $$field[0];
-        }
-
-        #        say $i;
-        #        say "\$lines=" . $lines[$i];
-        #        say "\$\$field=" . $$field[$i];
         $i++;
-
-        #        last if $i > 30;
     }
 }
